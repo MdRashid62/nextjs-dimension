@@ -57,7 +57,7 @@ class Main extends React.Component {
             </ul>
           </form>
           <ul className="icons">
-            <li><a href="#">
+            <li><a href="https://twitter.com/">
               <FontAwesomeIcon icon={faTwitter} />
             </a></li>
             <li><a href="#">
