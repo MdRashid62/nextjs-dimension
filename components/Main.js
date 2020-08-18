@@ -70,6 +70,9 @@ class Main extends React.Component {
             <li><a href="https://github.com/">
               <FontAwesomeIcon icon={faGithub} />
             </a></li>
+            <li><a href="https://youtube.com/">
+              <FontAwesomeIcon icon={faYoutube} />
+            </a></li>
           </ul>
           {close}
         </article>
