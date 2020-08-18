@@ -74,6 +74,7 @@ class IndexPage extends React.Component {
                 <div>
                     <Head>
                         <title>Next.js Dimension</title>
+                        <link rel="shortcut icon" href="http://example.com/favicon.ico" />
                         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
                     </Head>
 
