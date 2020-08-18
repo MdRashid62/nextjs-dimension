@@ -63,7 +63,7 @@ class Main extends React.Component {
             <li><a href="https://facebook.com/">
               <FontAwesomeIcon icon={faFacebook} />
             </a></li>
-            <li><a href="#">
+            <li><a href="https://instagram.com/">
               <FontAwesomeIcon icon={faInstagram} />
             </a></li>
             <li><a href="#">
